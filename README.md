@@ -1,5 +1,5 @@
 # Data-Warehousing-and-Data-Mining-Sessional
-### This repository was created in supporting CSE 454 Sessional
+### This repository was created to support CSE-454: Data Warehousing and Data Mining Sessional 
 
 ## Course Information
 ### Session 1: [Introduction to Python Programming](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Session%201)
