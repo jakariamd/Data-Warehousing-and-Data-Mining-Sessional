@@ -7,8 +7,8 @@
 ### Session 3: Regrassion Analysis
 
 
-# Instructor information 
-### Md. Jakaria
-Lecturer
+## Instructor information 
+**Md. Jakaria**
+*Lecturer*
 Dept of Computer Science and Engineering
 Military Institute of Science and Technology
