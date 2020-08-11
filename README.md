@@ -11,4 +11,4 @@
 **Md. Jakaria**
 *Lecturer* \
 Dept of Computer Science and Engineering \
-Military Institute of Science and Technology \
+Military Institute of Science and Technology 
