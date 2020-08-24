@@ -10,10 +10,10 @@
 ## Instructor information 
 **Md. Jakaria** \
 *Lecturer* \
-Computer Science and Engineering \
-Military Institute of Science and Technology 
+Dept. of Computer Science and Engineering \
+Military Institute of Science and Technology (MIST)
 
 **Anindita Kundu** \
 *Lecturer* \
-Computer Science and Engineering \
-Military Institute of Science and Technology 
+Dept. of Computer Science and Engineering \
+Military Institute of Science and Technology (MIST)
