@@ -7,11 +7,13 @@
 ### Session 3: Regression Analysis
 
 
-## Instructor information 
+## Instructors information 
 **Md. Jakaria** \
 *Lecturer* \
 Dept. of Computer Science and Engineering \
 Military Institute of Science and Technology (MIST)
+
+**&**
 
 **Anindita Kundu** \
 *Lecturer* \
