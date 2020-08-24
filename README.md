@@ -12,3 +12,8 @@
 *Lecturer* \
 Computer Science and Engineering \
 Military Institute of Science and Technology 
+
+**Anindita Kundu** \
+*Lecturer* \
+Computer Science and Engineering \
+Military Institute of Science and Technology 
