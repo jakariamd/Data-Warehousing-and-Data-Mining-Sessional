@@ -10,10 +10,10 @@ Session 5: Clustering\
 Session 6: Mining complex type of data\
 Session 7: Deep learning**
 
-## Course Assesment
-#### Assignment 1: [Assignment on Basic Python Programming](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%201)
-#### Assignment 2: [Assignment on Affinity Analysis](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%202)
-#### Assignment 3: [Assignment on Regression Analysis](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%203)
+### Course Assesment
+**Assignment 1: [Assignment on Basic Python Programming](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%201)\
+Assignment 2: [Assignment on Affinity Analysis](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%202)\
+Assignment 3: [Assignment on Regression Analysis](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%203)**
 
 
 
@@ -27,5 +27,4 @@ Military Institute of Science and Technology (MIST)
 
 **Anindita Kundu** \
 *Lecturer* \
-Dept. of Computer Science and Engineering \
-Military Institute of Science and Technology (MIST)
+Dept. of Computer Science and Engineering \Military Institute of Science and Technology (MIST)
