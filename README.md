@@ -21,8 +21,8 @@ Assignment 3: [Assignment on Regression Analysis](https://github.com/jakariamd/D
 **Md. Jakaria** \
 *Lecturer* \
 Dept. of Computer Science and Engineering \
-Military Institute of Science and Technology (MIST)
-**&**
+Military Institute of Science and Technology (MIST) \
+**&** \
 **Anindita Kundu** \
 *Lecturer* \
 Dept. of Computer Science and Engineering \ 
