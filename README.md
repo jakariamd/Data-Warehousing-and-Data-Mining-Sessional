@@ -25,5 +25,5 @@ Military Institute of Science and Technology (MIST) \
 **&** \
 **Anindita Kundu** \
 *Lecturer* \
-Dept. of Computer Science and Engineering \ 
+Dept. of Computer Science and Engineering \
 Military Institute of Science and Technology (MIST)
