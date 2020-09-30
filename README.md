@@ -14,8 +14,7 @@ Session 7: Deep learning**
 **Assignment 1: [Assignment on Basic Python Programming](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%201)\
 Assignment 2: [Assignment on Affinity Analysis](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%202)\
 Assignment 3: [Assignment on Regression Analysis](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%203)\
-Assignment 4: [Assugnment on Decision Tree](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%204)
-**
+Assignment 4: [Assugnment on Decision Tree](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Assignment%204)**
 
 
 ## Instructors information 
