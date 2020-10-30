@@ -7,7 +7,7 @@ Session 2: [Data Preprocessing, Data Visualization and Association Analysis](htt
 Session 3: [Regression Analysis](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Session%203)\
 Session 4: [Classification and prediction](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Session%204)\
 Session 5: [Clustering Analysis](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Session%205)\
-Session 6: [Mining complex type of data and Deep learning](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Session%206)\
+Session 6: [Mining complex type of data and Deep learning](https://github.com/jakariamd/Data-Warehousing-and-Data-Mining-Sessional/tree/master/Term%20Project)\
 Session 7: Evaluation on Term Project**
 
 ### Course Assesment
